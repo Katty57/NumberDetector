@@ -13,8 +13,8 @@ App representing CallKit usage.
 </p>
 
 Tasks:
-- [ ] Phone number and time detecting;
-- [x] SMS detector;
-- [x] Add buttons to incoming call interface;
-- [x] Autoblock caller;
-- [x] Caller id detecting.
+- [x] Phone number and time detecting;
+- [ ] SMS detector;
+- [ ] Add buttons to incoming call interface;
+- [ ] Autoblock caller;
+- [ ] Caller id detecting.
