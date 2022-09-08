@@ -11,3 +11,10 @@ App representing CallKit usage.
  <img src="https://user-images.githubusercontent.com/31551241/189049089-94336280-488d-422e-8fb9-6a468eb7fa90.PNG" width="200" /> 
  <img src="https://user-images.githubusercontent.com/31551241/189049105-d916becd-04b1-42e0-a8c3-c9dee5e1db5a.PNG" width="200" />
 </p>
+
+Tasks:
+- [ ] Phone number and time detecting;
+- [x] SMS detector;
+- [x] Add buttons to incoming call interface;
+- [x] Autoblock caller;
+- [x] Caller id detecting.
