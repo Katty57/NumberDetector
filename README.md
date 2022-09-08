@@ -16,5 +16,5 @@ Tasks:
 - [x] Phone number and time detecting;
 - [ ] SMS detector;
 - [ ] Add buttons to incoming call interface;
-- [ ] Autoblock caller;
-- [ ] Caller id detecting.
+- [50%] Autoblock caller;
+- [50%] Caller id detecting.
